@@ -1,0 +1,16 @@
+  215  readelf -l 1-1-1
+  216  objdump -p 1-1
+  217  cd homework
+  218  cd week1
+  219  vim note.txt
+  220  git add .
+  221  git commit -m "第一周"
+  222  git push origin master
+  223  vim note.txt
+  224  vim note.txt
+  225  vim note.txt
+  226  git add .
+  227  git commit -m
+  228  git commit
+  229  git commit -m "第一次"
+  230  git push origin master
