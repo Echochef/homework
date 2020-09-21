@@ -5,3 +5,4 @@ cat,more.cat滚屏幕,more分屏幕按空格往下走查看文件内容
 readelf查看可执行文件elf格式的文件
 objdump反汇编
 gcc 2>error.dat。 2代表标准错误，单独的gcc在终端会产生错误然后2将输入转向给我error.dat
+cp sourcefile targetfile 拷贝源文件给目标文件
